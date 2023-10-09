@@ -1,6 +1,9 @@
 ### ignore IDE specific folders ###
-.vscode
 .idea
 
 ### ignore MacOS specific files ###
 .DS_Store
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
